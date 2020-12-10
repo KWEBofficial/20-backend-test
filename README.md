@@ -21,15 +21,17 @@
 $ git remote add problems https://github.com/KWEBofficial/20-backend-test
 ```
 
-## 시험지 다운로드
+* 연동한 이후 다시 연동할 필요는 없음
+
+### 시험지 다운로드
 
 ```sh
 $ git pull problems master
 ```
 
-* 시험지는 시험 시작 시 다운로드 가능
+* 시험지는 시험 시작 시 업로드될 예정
 
-## 답안 제출
+### 답안 제출
 
 ```sh
 $ git add .
