@@ -1,0 +1,29 @@
+{
+  "name": "20-backend-test",
+  "version": "1.0.0",
+  "description": "2020 Backend Test Repository",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KWEBofficial/20-backend-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KWEBofficial/20-backend-test/issues"
+  },
+  "homepage": "https://github.com/KWEBofficial/20-backend-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5"
+  }
+}
